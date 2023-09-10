@@ -16,3 +16,5 @@ This feature enables users to learn how to prepare the meal in their own kitchen
 The Meal App is built using the following technologies:
 Front-end: HTML, CSS, JavaScript
 API: TheMealDB API (https://www.themealdb.com/api.php)
+
+live : https://ankitsingh2129.github.io/MealApp/
